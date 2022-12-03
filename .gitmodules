@@ -1,0 +1,3 @@
+[submodule "source/Content"]
+	path = source/Content
+	url = https://github.com/KerstenSchaller/Assets
